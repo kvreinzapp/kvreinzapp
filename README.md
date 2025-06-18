@@ -21,7 +21,6 @@ As reflected in my repositories, I'm comfortable working with various technologi
 
 ### Web Development
 - [**RestAPI_nodejs**](https://github.com/kvreinzapp/RestAPI_nodejs): A RESTful API built with Node.js
-- [**kvreinzapp.github.io**](https://github.com/kvreinzapp/kvreinzapp.github.io): My personal website/portfolio
 - [**JAVASCRIPT_CODE**](https://github.com/kvreinzapp/JAVASCRIPT_CODE): Collection of JavaScript projects and exercises
 
 ### Software Development
@@ -34,9 +33,6 @@ As reflected in my repositories, I'm comfortable working with various technologi
 - [**C_CODE**](https://github.com/kvreinzapp/C_CODE): Projects and exercises while learning C
 - [**OrganizationAndOS**](https://github.com/kvreinzapp/OrganizationAndOS): Code related to operating systems and organization
 - [**DataStructures_Algorithms**](https://github.com/kvreinzapp/DataStructures_Algorithms): Implementation of various data structures and algorithms in C and C++
-
-### Tools & Customization
-- [**ThinkingMattered**](https://github.com/kvreinzapp/ThinkingMattered): Vim scripts and customizations
 
 ## 🎓 Education
 
