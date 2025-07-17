@@ -21,7 +21,6 @@ Beyond what's visible in my repositories, I've worked on:
 - **Educational Web Games**: Created personalized web games for primary school teachers to enhance student learning
 - **Smart Trash Bin**: Implemented using C programming on a microcontroller
 - **Machine Vision System**: Developed using MATLAB to detect surface faults on rollers
-- **Movie Recommendation Platform**: Built with Java
 
 ## 📫 Contact Me
 
