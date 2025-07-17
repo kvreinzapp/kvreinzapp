@@ -28,4 +28,4 @@ Feel free to reach out if you'd like to collaborate on projects or discuss techn
 
 ---
 
-*"I want to build something valuable which could benefit people."*
+*"Pain is the essence."*
